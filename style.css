@@ -56,7 +56,7 @@ html,body{
 .ETH{
     display: flex;
     justify-content:space-evenly;
-    gap: 10%;
+    gap: 125px;
     padding-bottom: 10px;
 }
 
